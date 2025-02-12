@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://beast-news.github.io/Today/
